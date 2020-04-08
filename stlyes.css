@@ -53,6 +53,8 @@
     margin: 0;
     padding-left: 50px;
     font-weight: 600;
+    height: 27px;
+    font-family: sans-serif;
   }
   .navbar li {
     text-align: center;
@@ -213,4 +215,7 @@ width: 300px;
 }
 .new-head .underLine {
   width: 100%;
+}
+a, a:hover, a:link, a:visited {
+  text-decoration: none !important;
 }
