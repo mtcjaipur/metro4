@@ -3,20 +3,12 @@
     display: none;
   }
   #header-nav {
-    /* color: #909090; */
     font-size: 150%;
   }
   #icon {
     width: 50px;
     height: 50px;
   }
-  /* hr {
-    display: none;
-  } */
-  /* ul {
-    margin: 0;
-    font-size: 150%;
-  } */
   header{
     min-height: 100px;
     font-size: 150%;
@@ -110,9 +102,6 @@ img {
   height: 100%;
   width: 100%;
 }
-/* ul {
-  font-family: 'Gotu', sans-serif;
-} */
 
 .link-item {
   color: white;
