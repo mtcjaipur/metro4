@@ -97,3 +97,8 @@ input[type=file] {
 form p {
   margin-left: 8%;
 }
+#contact img {
+  height: 32px;
+  width: 32px;
+  margin-right: 20px;
+}
