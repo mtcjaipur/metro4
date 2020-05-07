@@ -23,7 +23,7 @@ input[name=Subject] {
   width: 83%;
 }
 
-input[type=submit] {
+form button {
   background-color: black;
   color: white;
   width: 83%;
@@ -31,7 +31,7 @@ input[type=submit] {
   margin-top: 10px;
 }
 
-input[type=submit]:hover {
+form button:hover {
   opacity: 0.6;
 }
 
